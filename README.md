@@ -1,4 +1,4 @@
-<h1 align="centre">Akshay Alex
+<h1 align="center">Akshay Alex
 <br/>VR/Unity Developer</h1>
 
 
