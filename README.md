@@ -1,4 +1,12 @@
-<h2 align="left">Hello there!<br>I'm Akshay, I'm currently a VR developer.<br>I would love opportunities to work on games!<br>I mostly work with C# and I have some projects here that you can check out.<br>Good luck!</h2>
+<h1 align="left">Akshay Alex</h1>
+
+###
+
+<h1 align="left">VR/Unity Developer</h1>
+
+###
+
+<h2 align="left">Hello there!<br>I'm Akshay, I'm currently working as a VR developer at AutoVRse.<br>I would love opportunities to work on games!<br>I mostly work with C# and I have some projects here that you can check out.<br>Good luck!</h2>
 
 ###
 
@@ -6,7 +14,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/akshay-alex" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
