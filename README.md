@@ -1,5 +1,5 @@
-<h1 align="left">Akshay Alex</h1>
-<h1 align="left">VR/Unity Developer</h1>
+<h1 align="left">Akshay Alex
+<br/>VR/Unity Developer</h1>
 
 
 <h2 align="left">Hello there!<br>I'm Akshay, I'm currently working as a VR developer at AutoVRse.<br>I would love opportunities to work on games!<br>I mostly work with C# and I have some projects here that you can check out.<br>Good luck!</h2>
