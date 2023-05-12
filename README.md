@@ -1,6 +1,4 @@
 <h1 align="left">Akshay Alex</h1>
-
-
 <h1 align="left">VR/Unity Developer</h1>
 
 
